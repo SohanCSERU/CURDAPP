@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897032937382",
+    "project_id": "curdapp-7b4ba",
+    "storage_bucket": "curdapp-7b4ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897032937382:android:9cf33cbc90e1e10e96b967",
+        "android_client_info": {
+          "package_name": "com.example.curdapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897032937382-jt50q266s2d288jgl7k9ao1cp39nqhoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXatrLPY2n-eOaVCEtSa5KgEln-Rwx3sU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897032937382-jt50q266s2d288jgl7k9ao1cp39nqhoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
