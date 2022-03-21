@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CURDAPP</string>
+    <string name="hint_of_name">Enter User Name</string>
 </resources>
