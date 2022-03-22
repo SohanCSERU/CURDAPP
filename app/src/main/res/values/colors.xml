@@ -9,6 +9,9 @@
     <color name="white">#FFFFFFFF</color>
     <color name="white_smoke">#FFFFFFFF</color>
 
+    <color name="app_color_1">#F6F1FF</color>
+    <color name="app_color_2">#C10000</color>
+
     <color name="white_shade_1">#0e2433</color>
     <color name="white_shade_2">#1C4966</color>
     <color name="mtrl_textinput_default_box_stroke_color" tools:overrise="ture">#296D98</color>
